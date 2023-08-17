@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "90193307871",
+    "project_id": "motoroctane-9e421",
+    "storage_bucket": "motoroctane-9e421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90193307871:android:7e49ecb34859fdd9d2a16a",
+        "android_client_info": {
+          "package_name": "com.example.review"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90193307871-06cffkrfao7lf5cgvfl705v5ridt55p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmLjj6UIrTfFgaSe2fChr5o7C_AnY2yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90193307871-06cffkrfao7lf5cgvfl705v5ridt55p7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90193307871-5fj30uujcuqphacinuk58njh60ceigsg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.review.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
